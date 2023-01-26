@@ -1,4 +1,4 @@
-module github/stephenjhwang/auto-job
+module github.com/stephenjhwang/auto-job
 
 go 1.19
 
